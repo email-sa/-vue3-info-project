@@ -1,0 +1,6 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo "========== 执行pre-commit 操作 =========="
+
+git add ./
