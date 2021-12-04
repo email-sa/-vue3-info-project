@@ -40,3 +40,9 @@ yarn global add @vue/cli
 ```
 
 整理项目内容,删除不需要的文件
+
+# 第二阶段
+完善项目的配置，添加git提交校验，webpack打包配置等等
+## 给项目添加git commit代码提交描述强校验
+可在对应分支 feater/commit-verify 查看README.md详细内容
+## 给项目引入webpack，并正对不同环境添加不同配置打包
